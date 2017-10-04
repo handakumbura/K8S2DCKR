@@ -1,0 +1,3 @@
+///logging_config.yaml///
+Use this file to configure application wide logging options.
+disable_existing_loggers should be set to false, change the root log level to debug to get application wide debug logs.

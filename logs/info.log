@@ -1,0 +1,69 @@
+2017-09-21 10:47:18,189 - prerequisite.systemprerequisite - INFO - Module validations completed successfully.
+2017-09-21 10:47:18,189 - prerequisite.systemprerequisite - INFO - System validations completed successfully.
+2017-09-21 10:47:18,194 - prerequisite.systemprerequisite - INFO - Docker runtime validations completed successfully.
+2017-09-21 10:47:18,194 - __main__ - INFO - a break can do wonders.
+2017-09-21 10:50:06,599 - prerequisite.systemprerequisite - INFO - Module validations completed successfully.
+2017-09-21 10:50:06,600 - prerequisite.systemprerequisite - INFO - System validations completed successfully.
+2017-09-21 10:50:06,604 - prerequisite.systemprerequisite - INFO - Docker runtime validations completed successfully.
+2017-09-21 10:50:06,604 - bootloader - INFO - a break can do wonders.
+2017-09-21 10:58:55,071 - prerequisite.systemprerequisite - INFO - Module validations completed successfully.
+2017-09-21 10:58:55,071 - prerequisite.systemprerequisite - INFO - System validations completed successfully.
+2017-09-21 10:58:55,075 - prerequisite.systemprerequisite - INFO - Docker runtime validations completed successfully.
+2017-09-21 10:58:55,076 - bootloader - INFO - running.
+2017-09-21 11:02:53,654 - prerequisite.systemprerequisite - INFO - Module validations completed successfully.
+2017-09-21 11:02:53,655 - prerequisite.systemprerequisite - INFO - System validations completed successfully.
+2017-09-21 11:02:53,659 - prerequisite.systemprerequisite - INFO - Docker runtime validations completed successfully.
+2017-09-21 11:02:53,659 - bootloader - INFO - running.
+2017-09-22 13:09:33,810 - prerequisite.systemprerequisite - INFO - Module validations completed successfully.
+2017-09-22 13:09:33,820 - prerequisite.systemprerequisite - INFO - System validations completed successfully.
+2017-09-22 13:09:33,879 - prerequisite.systemprerequisite - INFO - Docker runtime validations completed successfully.
+2017-09-22 13:09:33,880 - db.dbwrapper - INFO - [(1, u'test1234'), (2, u'test5678')]
+2017-09-22 13:09:33,880 - bootloader - INFO - running.
+2017-09-22 13:24:17,106 - prerequisite.systemprerequisite - INFO - Module validations completed successfully.
+2017-09-22 13:24:17,106 - prerequisite.systemprerequisite - INFO - System validations completed successfully.
+2017-09-22 13:24:17,110 - prerequisite.systemprerequisite - INFO - Docker runtime validations completed successfully.
+2017-09-22 13:24:17,111 - db.dbwrapper - INFO - [(1, u'test1234'), (2, u'test5678')]
+2017-09-22 13:24:17,111 - db.dbwrapper - INFO - get job
+2017-09-22 13:24:17,112 - db.dbwrapper - INFO - get jobs
+2017-09-22 13:24:17,112 - db.dbwrapper - INFO - put job
+2017-09-22 13:24:17,112 - db.dbwrapper - INFO - get env
+2017-09-22 13:24:17,112 - db.dbwrapper - INFO - put env
+2017-09-22 13:24:17,112 - db.dbwrapper - INFO - get compose meta
+2017-09-22 13:24:17,112 - db.dbwrapper - INFO - put compose meta
+2017-09-22 13:24:17,112 - bootloader - INFO - running.
+2017-09-22 13:24:57,091 - prerequisite.systemprerequisite - INFO - Module validations completed successfully.
+2017-09-22 13:24:57,091 - prerequisite.systemprerequisite - INFO - System validations completed successfully.
+2017-09-22 13:24:57,098 - prerequisite.systemprerequisite - INFO - Docker runtime validations completed successfully.
+2017-09-22 13:24:57,099 - db.dbwrapper - INFO - [(1, u'test1234'), (2, u'test5678')]
+2017-09-22 13:24:57,099 - db.dbwrapper - INFO - get job
+2017-09-22 13:24:57,099 - db.dbwrapper - INFO - get jobs
+2017-09-22 13:24:57,099 - db.dbwrapper - INFO - put job
+2017-09-22 13:24:57,099 - db.dbwrapper - INFO - get env
+2017-09-22 13:24:57,099 - db.dbwrapper - INFO - put env
+2017-09-22 13:24:57,099 - db.dbwrapper - INFO - get compose meta
+2017-09-22 13:24:57,100 - db.dbwrapper - INFO - put compose meta
+2017-09-22 13:24:57,100 - bootloader - INFO - running.
+2017-09-22 13:30:48,285 - prerequisite.systemprerequisite - INFO - Module validations completed successfully.
+2017-09-22 13:30:48,285 - prerequisite.systemprerequisite - INFO - System validations completed successfully.
+2017-09-22 13:30:48,290 - prerequisite.systemprerequisite - INFO - Docker runtime validations completed successfully.
+2017-09-22 13:30:48,291 - db.dbwrapper - INFO - [(1, u'test1234'), (2, u'test5678')]
+2017-09-22 13:30:48,291 - db.dbwrapper - INFO - get job
+2017-09-22 13:30:48,291 - db.dbwrapper - INFO - get jobs
+2017-09-22 13:30:48,291 - db.dbwrapper - INFO - put job
+2017-09-22 13:30:48,291 - db.dbwrapper - INFO - get env
+2017-09-22 13:30:48,292 - db.dbwrapper - INFO - put env
+2017-09-22 13:30:48,292 - db.dbwrapper - INFO - get compose meta
+2017-09-22 13:30:48,292 - db.dbwrapper - INFO - put compose meta
+2017-09-22 13:30:48,292 - bootloader - INFO - running.
+2017-09-22 13:33:05,010 - prerequisite.systemprerequisite - INFO - Module validations completed successfully.
+2017-09-22 13:33:05,011 - prerequisite.systemprerequisite - INFO - System validations completed successfully.
+2017-09-22 13:33:05,015 - prerequisite.systemprerequisite - INFO - Docker runtime validations completed successfully.
+2017-09-22 13:33:05,016 - db.dbwrapper - INFO - [(1, u'test1234'), (2, u'test5678')]
+2017-09-22 13:33:05,016 - db.dbwrapper - INFO - get job
+2017-09-22 13:33:05,016 - db.dbwrapper - INFO - get jobs
+2017-09-22 13:33:05,016 - db.dbwrapper - INFO - put job
+2017-09-22 13:33:05,017 - db.dbwrapper - INFO - get env
+2017-09-22 13:33:05,017 - db.dbwrapper - INFO - put env
+2017-09-22 13:33:05,017 - db.dbwrapper - INFO - get compose meta
+2017-09-22 13:33:05,017 - db.dbwrapper - INFO - put compose meta
+2017-09-22 13:33:05,017 - bootloader - INFO - running.
